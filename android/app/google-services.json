@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "1028979481017",
+    "firebase_url": "https://my-dream-land-831cf.firebaseio.com",
+    "project_id": "my-dream-land-831cf",
+    "storage_bucket": "my-dream-land-831cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028979481017:android:8aebaa3ad5b8da4a79fe68",
+        "android_client_info": {
+          "package_name": "com.omaressam.mydreamland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028979481017-dh6dnjlnqp5areu3p35f0m2av68v4aq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0vFwPhQ6qOs_tC235brnpN9gVW1MXEMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028979481017-dh6dnjlnqp5areu3p35f0m2av68v4aq9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1028979481017-7ev07jlk1n37021f5ckuk831ams3n963.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dreamLand"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028979481017:android:fd2942f1460193c779fe68",
+        "android_client_info": {
+          "package_name": "com.omaressam.mydreamland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028979481017-dh6dnjlnqp5areu3p35f0m2av68v4aq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0vFwPhQ6qOs_tC235brnpN9gVW1MXEMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028979481017-dh6dnjlnqp5areu3p35f0m2av68v4aq9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1028979481017-7ev07jlk1n37021f5ckuk831ams3n963.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dreamLand"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2215062627887475~2077386938"
+    }
+  ],
+  "configuration_version": "1"
+}
